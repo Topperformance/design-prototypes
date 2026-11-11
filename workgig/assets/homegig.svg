@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="HomeGig">
+  <title>HomeGig icon HGI-001</title>
+  <rect width="48" height="48" rx="10" fill="#008A50"/>
+  <path d="M11 22.5 24 12l13 10.5V36a1.5 1.5 0 0 1-1.5 1.5h-23A1.5 1.5 0 0 1 11 36Z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m17.5 27 4.5 4.5 8.5-8.5" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 7.5l1.1 2.4 2.4 1.1-2.4 1.1L36 14.5l-1.1-2.4-2.4-1.1 2.4-1.1Z" fill="#CCE8DC"/>
+</svg>
